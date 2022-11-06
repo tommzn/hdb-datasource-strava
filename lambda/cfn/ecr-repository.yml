@@ -1,0 +1,10 @@
+Parameters:
+  RepositoryName:
+    Description: Docker image location in AWS ECR which contains the function code.
+    Type: String
+  
+Resources:
+  EcrRepository:
+    Type": AWS::ECR::Repository
+    Properties:
+      RepositoryName: !Ref RepositoryName
