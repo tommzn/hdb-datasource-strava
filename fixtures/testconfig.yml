@@ -1,0 +1,8 @@
+
+log:
+  type: local
+  loglevel: debug
+
+strava:
+  tokenurl: https://www.strava.com/oauth/token
+  activitycount: 5

@@ -1,0 +1,7 @@
+{
+    "token_type": "Bearer",
+    "expires_at": ##EXPIRESAT##,
+    "expires_in": 21600,
+    "refresh_token": "xxx",
+    "access_token": "yyy"
+}

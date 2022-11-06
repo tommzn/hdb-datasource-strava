@@ -1,0 +1,10 @@
+{
+    "message": "Authorization Error",
+    "errors": [
+        {
+            "resource": "AccessToken",
+            "field": "activity:read_permission",
+            "code": "missing"
+        }
+    ]
+}
