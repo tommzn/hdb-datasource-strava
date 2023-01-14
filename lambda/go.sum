@@ -362,6 +362,8 @@ github.com/tommzn/hdb-datasource-strava v0.0.0-20221106222510-6d11d911c43e h1:Bh
 github.com/tommzn/hdb-datasource-strava v0.0.0-20221106222510-6d11d911c43e/go.mod h1:VOIdic7nc0MY1ijV/i6xon6p4jLz0xgqgu1laG265jE=
 github.com/tommzn/hdb-datasource-strava v1.0.0 h1:tpJb5XwHYyrf+84aMwr0Hxp/EU4ok4bNeDmBtwte9T0=
 github.com/tommzn/hdb-datasource-strava v1.0.0/go.mod h1:VOIdic7nc0MY1ijV/i6xon6p4jLz0xgqgu1laG265jE=
+github.com/tommzn/hdb-datasource-strava v1.0.1 h1:zZIDFBx74EbHTI6gg4hR6sqGRwwC90Tx4LQtkQsN+yI=
+github.com/tommzn/hdb-datasource-strava v1.0.1/go.mod h1:VOIdic7nc0MY1ijV/i6xon6p4jLz0xgqgu1laG265jE=
 github.com/tommzn/hdb-events-go v1.0.8/go.mod h1:Pi0wRugUxNO81wqM4lFoie1C6oE8zUbq4h4TjSgvBi4=
 github.com/tommzn/hdb-events-go v1.0.13 h1:GOtQvaKEPRG9QdfZlrMyeKE80wVaLKRaH5287SdKuqo=
 github.com/tommzn/hdb-events-go v1.0.13/go.mod h1:Pi0wRugUxNO81wqM4lFoie1C6oE8zUbq4h4TjSgvBi4=

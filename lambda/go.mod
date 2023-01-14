@@ -2,6 +2,8 @@ module github.com/tommzn/hdb-datasource-strava/lambda
 
 go 1.17
 
+require github.com/tommzn/hdb-datasource-strava v1.0.1
+
 require (
 	github.com/aws/aws-lambda-go v1.34.1 // indirect
 	github.com/aws/aws-sdk-go v1.41.2 // indirect
@@ -26,7 +28,6 @@ require (
 	github.com/tommzn/go-strava v1.0.1 // indirect
 	github.com/tommzn/go-utils v1.0.2 // indirect
 	github.com/tommzn/hdb-datasource-core v1.2.3 // indirect
-	github.com/tommzn/hdb-datasource-strava v1.0.0
 	github.com/tommzn/hdb-events-go v1.0.13 // indirect
 	golang.org/x/net v0.1.0 // indirect
 	golang.org/x/oauth2 v0.1.0 // indirect
